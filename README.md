@@ -9,9 +9,9 @@
 - [Documentation](#documentation)
 - [Environments](#environments)
     - [Consistent dev environments](#consistent-dev-environments)
+    - [Consistent test environments](#consistent-dev-environments)
     - [Consistent dependencies](#consistent-dependencies)
 - [Dependencies](#dependencies)
-- [Testing](#testing)
 - [Structure and Naming](#structure-and-naming)
 - [Code style](#code-style)
     - [Some code style guidelines](#code-style-check)
@@ -21,7 +21,6 @@
     - [API design](#api-design)
     - [API security](#api-security)
     - [API documentation](#api-documentation)
-- [Licensing](#licensing)
 
 <a name="git"></a>
 ## 1. Git
@@ -171,8 +170,6 @@ Having a good guideline for creating commits and sticking to it makes working wi
  <a name="documentation"></a>
 ## 2. Documentation
 
-![Documentation](/images/documentation.png)
-
 * Use this [template](./README.sample.md) for `README.md`, Feel free to add uncovered sections.
 * For projects with more than one repository, provide links to them in their respective `README.md` files.
 * Keep `README.md` updated as a project evolves.
@@ -184,8 +181,6 @@ Having a good guideline for creating commits and sticking to it makes working wi
 
 <a name="environments"></a>
 ## 3. Environments
-
-![Environments](/images/laptop.png)
 
 * Define separate `development`, `test` and `production` environments if needed.
 
