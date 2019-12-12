@@ -17,10 +17,6 @@
     - [Some code style guidelines](#code-style-check)
     - [Enforcing code style standards](#enforcing-code-style-standards)
 - [Logging](#logging)
-- [API](#api)
-    - [API design](#api-design)
-    - [API security](#api-security)
-    - [API documentation](#api-documentation)
 
 <a name="git"></a>
 ## 1. Git
